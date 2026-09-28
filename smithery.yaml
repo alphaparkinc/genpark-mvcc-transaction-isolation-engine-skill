@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-mvcc-transaction-isolation-engine-skill
+name: genpark-mvcc-transaction-isolation-engine-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
