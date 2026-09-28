@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-mvcc-transaction-isolation-engine-skill",
+  "version": "1.0.0",
+  "description": "Multi-Version Concurrency Control (MVCC) engine with tuple versioning and snapshot isolation.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
